@@ -1,5 +1,5 @@
 # Winls
-Winls is the Unix `ls` command, build for Windows.
+Winls is the Unix `ls` command, written for Windows.
 
 You can install it from [here](https://github.com/mathstar13/winls/releases/download/v1.0.0/winls-1.0.0.exe).
 
